@@ -1,14 +1,19 @@
 # Javelin
-High-flow toolhead for 3D Printers at a modest cost.
+
+
+High-flow toolhead for 3D Printers at a relatively affordable cost.
 
 **Note that this is both unfinished and has not yet been tested. Use the design at your own risk.**
 
 # What is this?
 
-Javelin is a toolhead based on Causality Manufacturing's Vesuvius Lite Hotend. *(Unreleased as of December 24th, 2025)*
-More information about Vesuvius Lite can be found on their website https://www.causalitymfg.com/
-Javelin is intended to be a structurally rigid, slim high-flow rate capable toolhead that can be dropped in to most MGN12H X-Rail based setups.
-Current weight estimate for when its fully complete is around ~400g.
+Javelin is a toolhead based on the Vesuvius Lite Hotend. *(Unreleased as of Febuary 3rd, 2026)*
+
+More information about Vesuvius Lite including cad files can be found on the page https://www.causalitymfg.com/downloads/vesuviuslitecad
+
+Javelin is intended to be a structurally rigid, slim high-flow rate capable toolhead that can be dropped in to most MGN12H front-X-Rail front-belt based setups.
+
+Current weight estimate for when its fully complete is around ~390g.
 
 # Components
 
