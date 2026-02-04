@@ -4,7 +4,7 @@ High-flow toolhead for 3D Printers at a relatively affordable cost.
 
 **Note that this is both very unfinished and has not yet been tested. Use the design at your own risk.**
 
-<img width="628" height="646" alt="image" src="https://github.com/user-attachments/assets/5a93df55-9ee6-480a-a51e-7485171d72fe" />
+![development photo](JavelinDev.png)
 
 
 # What is this?
