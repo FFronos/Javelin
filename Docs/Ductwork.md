@@ -4,6 +4,8 @@
 
 *(Note that the ducts are unfinished, however everything on this page is planned for the ducts)*
 
+![Current photo of the ducts](Images/Ducts.png)
+
 ## Design Overview
 
 Javelins ducts are meant to be slim and lightweight, with the airflow coming from a CPAP tube setup.
