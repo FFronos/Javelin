@@ -4,7 +4,7 @@
 
 *(Note that the ducts are unfinished, however everything on this page is planned for the ducts)*
 
-![Current photo of the ducts](Images/Ducts.png)
+![Current photo of the ducts](../Images/Ducts.png)
 
 ## Design Overview
 
