@@ -36,7 +36,7 @@ As the hotend shroud supports the nozzle and provides structure to the toolhead,
 
 Given CFD is not entirely accurate, these simulations serve to just ensure good duct design and performance and that they are aimed sufficiently at the nozzle to be ready for real world fine tuning. Take these results with a grain of salt.
 
-*Simulations done on SimScale, incompressible simulation with an STL file of the duct.*
+*Simulations done on SimScale, incompressible simulation with an STL file of the duct. 4000Pa input pressure as a guesstimate for performance*
 
 ![CFD particle trace view of the ducts.](../Images/cfdbeta1.png)
 
