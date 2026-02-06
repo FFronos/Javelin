@@ -30,14 +30,26 @@ As the hotend shroud supports the nozzle and provides structure to the toolhead,
 
 ## Simulation Results
 
-**Not finished yet, SimScale is being annoying. Should be up soon, before i finalize the rest of the ducts once airflow is roughly ironed out (February 4th, 2026)**
+### Early CFD tuning
 
-(SimScale simulation download link...)
+**This data is not entirely accurate, real world tests will be made in the future, once I have the money, to fully tune the ducting. After that, final CFD results will be released which will replace these.**
 
-(SimScale views of particle traces and other relevant info about the simulation)
+Given CFD is not entirely accurate, these simulations serve to just ensure good duct design and performance and that they are aimed sufficiently at the nozzle to be ready for real world fine tuning. Take these results with a grain of salt.
+
+*Simulations done on SimScale, incompressible simulation with an STL file of the duct.*
+
+![CFD particle trace view of the ducts.](../Images/cfdbeta1.png)
+
+![Alternate CFD particle trace view of the ducts.](../Images/cfdbeta2.png)
+
+![Rear CFD particle trace view of the ducts.](../Images/cfdbeta3.png)
+
+![Whole duct CFD trace view of the ducts.](../Images/cfdbeta4.png)
+
+![Bottom CFD trace view of the ducts.](../Images/cfdbeta5.png)
+
 
 ## Real World Testing
 
-**Unsure of whether I can do this yet, best fan I got is a 12032 and it'd be heavily constricted by narrowing down to a CPAP tube. Might have to wait until I get a job and I start building the printer and the toolhead for this.**
+**When i get a job, I can test this out...**
 
-(Video of a water test on the duct...)
